@@ -1,3 +1,3 @@
 # intro-htsta
 
-## Statische Internetseiten erstellen
+## Was ist Git
